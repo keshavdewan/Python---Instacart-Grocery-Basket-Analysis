@@ -26,8 +26,6 @@ been checked and addressed.
 
 **01 Project Management** comprises of the project brief
 
-**02 Data** comprises of the original & prepared data
-
 **03 Scripts** comprises of all the scripts used during the project analysis
 
 **04 Analysis** comprises of visualisations prepared during our analysis
