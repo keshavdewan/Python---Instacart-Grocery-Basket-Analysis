@@ -22,7 +22,7 @@ been checked and addressed.
 - Final report includes evidence of analysis methodology, clear answers to the questions in this brief, and recommendations for Instacart stakeholders.
 - Final report contains data citation for Instacart and customer data sets.
 
-# Folders
+# Folders withtin the Repository
 
 **01 Project Management** comprises of the project brief
 
