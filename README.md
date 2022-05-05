@@ -30,4 +30,4 @@ been checked and addressed.
 
 **04 Analysis** comprises of visualisations prepared during our analysis
 
-**Sent to Client** comprises the Final Report sent to the client with our observations & recommendations
+**05 Sent to Client** comprises the Final Report sent to the client with our observations & recommendations
